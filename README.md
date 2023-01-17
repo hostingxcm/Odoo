@@ -1,0 +1,2 @@
+# Odoo
+Everything about odoo
